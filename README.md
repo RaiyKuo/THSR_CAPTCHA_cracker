@@ -19,3 +19,6 @@ Will output those incorrect preditions with the anwser from labels for compariso
 
 ===demo.py===
 Read trained model from directory "model\" and predict results of the images in "demo\preprocessed_img\".
+
+
+ATTENTION:  this repository is for course project purpose only.
